@@ -54,7 +54,7 @@ pip install streamlit langchain langchain-huggingface faiss-cpu python-dotenv
 
 
 ##Touble shooting
-pip install <package-name>
+pip install package-name
 
 
 
